@@ -1,7 +1,7 @@
 # `@gitgraph/core`
 
 [![version](https://img.shields.io/npm/v/@gitgraph/core.svg?logo=npm)](https://www.npmjs.com/package/@gitgraph/core)
-[![Changelog](https://img.shields.io/badge/%F0%9F%93%94-changelog-CD9523.svg)](https://github.com/nicoespeon/gitgraph.js/blob/master/packages/gitgraph-core/CHANGELOG.md)
+[![Changelog](https://img.shields.io/badge/%F0%9F%93%94-changelog-CD9523.svg)](https://github.com/levi217/gitgraph.js/blob/master/packages/gitgraph-core/CHANGELOG.md)
 
 This is the core package of [GitGraph.js][gitgraph-repo]. It contains the main logic for manipulating git-like API and compute the graph that should be rendered.
 
@@ -101,4 +101,4 @@ The end-user will be using the rendering library. As we return `gitgraph.getUser
 
 Every action updates the internal graph. The core library computes the new graph that should be rendered to represent the new state. When it does, it will call its listeners through the `subscribe()` method.
 
-[gitgraph-repo]: https://github.com/nicoespeon/gitgraph.js/
+[gitgraph-repo]: https://github.com/levi217/gitgraph.js/

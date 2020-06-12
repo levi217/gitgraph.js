@@ -28262,7 +28262,7 @@ export default [
     },
     subject: "Drop weird tag anti-collision system for now",
     body:
-      "It looks weird: https://github.com/nicoespeon/gitgraph.js/issues/132\nSo far, there is no real need for anti-collision. Will find a clever\nalgorithm when this will be necessary to people.",
+      "It looks weird: https://github.com/levi217/gitgraph.js/issues/132\nSo far, there is no real need for anti-collision. Will find a clever\nalgorithm when this will be necessary to people.",
     notes: "",
     stats: [
       {
@@ -40383,7 +40383,7 @@ export default [
       timestamp: 1378803703000,
     },
     subject:
-      "Merge branch 'develop' of https://github.com/nicoespeon/gitgraph.js into develop",
+      "Merge branch 'develop' of https://github.com/levi217/gitgraph.js into develop",
     body: "",
     notes: "",
     stats: [],

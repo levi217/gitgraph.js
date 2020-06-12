@@ -4,7 +4,7 @@ import { addParameters, configure } from "@storybook/react";
 addParameters({
   options: {
     name: "Gitgraph.js",
-    url: "https://github.com/nicoespeon/gitgraph.js/",
+    url: "https://github.com/levi217/gitgraph.js/",
     hierarchySeparator: "/",
   },
 });

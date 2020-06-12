@@ -12,17 +12,17 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicoespeon/gitgraph.js.git"
+    "url": "git+https://github.com/levi217/gitgraph.js.git"
   },
   "bugs": {
-    "url": "https://github.com/nicoespeon/gitgraph.js/issues"
+    "url": "https://github.com/levi217/gitgraph.js/issues"
   },
   "keywords": [
     "git",
     "graph",
     "javascript"
   ],
-  "homepage": "https://github.com/nicoespeon/gitgraph.js#readme",
+  "homepage": "https://github.com/levi217/gitgraph.js#readme",
   "publishConfig": {
     "access": "public"
   },

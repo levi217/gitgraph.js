@@ -1,7 +1,7 @@
 # `@gitgraph/js`
 
 [![version](https://img.shields.io/npm/v/@gitgraph/js.svg?logo=npm)](https://www.npmjs.com/package/@gitgraph/js)
-[![Changelog](https://img.shields.io/badge/%F0%9F%93%94-changelog-CD9523.svg)](https://github.com/nicoespeon/gitgraph.js/blob/master/packages/gitgraph-js/CHANGELOG.md)
+[![Changelog](https://img.shields.io/badge/%F0%9F%93%94-changelog-CD9523.svg)](https://github.com/levi217/gitgraph.js/blob/master/packages/gitgraph-js/CHANGELOG.md)
 
 Draw pretty git graphs with vanilla JS.
 
@@ -163,8 +163,8 @@ Run `npm start`. You should see the following graph:
 
 [playground]: https://codepen.io/nicoespeon/pen/arqPWb?editors=1010
 [get-npm]: https://www.npmjs.com/get-npm
-[gitgraph-repo]: https://github.com/nicoespeon/gitgraph.js/
-[stories]: https://github.com/nicoespeon/gitgraph.js/tree/master/packages/stories/src/gitgraph-js/
-[migration-guide]: https://github.com/nicoespeon/gitgraph.js/blob/master/packages/gitgraph-js/MIGRATE_FROM_GITGRAPH.JS.md
-[latest-release]: https://github.com/nicoespeon/gitgraph.js/releases/latest
-[assets-example]: https://github.com/nicoespeon/gitgraph.js/blob/master/packages/gitgraph-js/assets/example-usage.png?raw=true
+[gitgraph-repo]: https://github.com/levi217/gitgraph.js/
+[stories]: https://github.com/levi217/gitgraph.js/tree/master/packages/stories/src/gitgraph-js/
+[migration-guide]: https://github.com/levi217/gitgraph.js/blob/master/packages/gitgraph-js/MIGRATE_FROM_GITGRAPH.JS.md
+[latest-release]: https://github.com/levi217/gitgraph.js/releases/latest
+[assets-example]: https://github.com/levi217/gitgraph.js/blob/master/packages/gitgraph-js/assets/example-usage.png?raw=true

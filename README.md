@@ -4,7 +4,7 @@ A JavaScript library to draw pretty git graphs.
 
 ---
 
-👋 **[Help! The project is looking for maintainers!](https://github.com/nicoespeon/gitgraph.js/issues/328)**
+👋 **[Help! The project is looking for maintainers!](https://github.com/levi217/gitgraph.js/issues/328)**
 
 [![Build Status](https://travis-ci.org/nicoespeon/gitgraph.js.svg?branch=master)](https://travis-ci.org/nicoespeon/gitgraph.js)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)][license]
@@ -108,10 +108,10 @@ Thanks to [Chromatic](https://www.chromaticqa.com/) for providing the visual tes
 [semver]: http://semver.org/
 [contributing]: CONTRIBUTING.md
 [license]: LICENSE.md
-[latest-release]: https://github.com/nicoespeon/gitgraph.js/releases/latest
-[new-issue]: https://github.com/nicoespeon/gitgraph.js/issues
-[good-first-issues]: https://github.com/nicoespeon/gitgraph.js/issues?q=is%3Aissue+is%3Aopen+label%3A%22%3Awave%3A+Good+first+issue%22
-[gitgraph-core]: https://github.com/nicoespeon/gitgraph.js/tree/master/packages/gitgraph-core
-[gitgraph-js]: https://github.com/nicoespeon/gitgraph.js/tree/master/packages/gitgraph-js
-[gitgraph-react]: https://github.com/nicoespeon/gitgraph.js/tree/master/packages/gitgraph-react
-[gitgraph-node]: https://github.com/nicoespeon/gitgraph.js/tree/master/packages/gitgraph-node
+[latest-release]: https://github.com/levi217/gitgraph.js/releases/latest
+[new-issue]: https://github.com/levi217/gitgraph.js/issues
+[good-first-issues]: https://github.com/levi217/gitgraph.js/issues?q=is%3Aissue+is%3Aopen+label%3A%22%3Awave%3A+Good+first+issue%22
+[gitgraph-core]: https://github.com/levi217/gitgraph.js/tree/master/packages/gitgraph-core
+[gitgraph-js]: https://github.com/levi217/gitgraph.js/tree/master/packages/gitgraph-js
+[gitgraph-react]: https://github.com/levi217/gitgraph.js/tree/master/packages/gitgraph-react
+[gitgraph-node]: https://github.com/levi217/gitgraph.js/tree/master/packages/gitgraph-node

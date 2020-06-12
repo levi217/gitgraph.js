@@ -1,7 +1,7 @@
 # `@gitgraph/react`
 
 [![version](https://img.shields.io/npm/v/@gitgraph/react.svg?logo=npm)](https://www.npmjs.com/package/@gitgraph/react)
-[![Changelog](https://img.shields.io/badge/%F0%9F%93%94-changelog-CD9523.svg)](https://github.com/nicoespeon/gitgraph.js/blob/master/packages/gitgraph-react/CHANGELOG.md)
+[![Changelog](https://img.shields.io/badge/%F0%9F%93%94-changelog-CD9523.svg)](https://github.com/levi217/gitgraph.js/blob/master/packages/gitgraph-react/CHANGELOG.md)
 
 Draw pretty git graphs with React.
 
@@ -54,6 +54,6 @@ function MyComponent() {
 [A bunch of scenarios][stories] has been simulated in our Storybook. You can give them a look 👀
 
 [get-npm]: https://www.npmjs.com/get-npm
-[gitgraph-repo]: https://github.com/nicoespeon/gitgraph.js/
-[stories]: https://github.com/nicoespeon/gitgraph.js/tree/master/packages/stories/src/gitgraph-react/
-[assets-example]: https://github.com/nicoespeon/gitgraph.js/blob/master/packages/gitgraph-react/assets/example-usage.png?raw=true
+[gitgraph-repo]: https://github.com/levi217/gitgraph.js/
+[stories]: https://github.com/levi217/gitgraph.js/tree/master/packages/stories/src/gitgraph-react/
+[assets-example]: https://github.com/levi217/gitgraph.js/blob/master/packages/gitgraph-react/assets/example-usage.png?raw=true

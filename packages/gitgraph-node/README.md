@@ -3,7 +3,7 @@
 # `@gitgraph/node`
 
 [![version](https://img.shields.io/npm/v/@gitgraph/node.svg?logo=npm)](https://www.npmjs.com/package/@gitgraph/node)
-[![Changelog](https://img.shields.io/badge/%F0%9F%93%94-changelog-CD9523.svg)](https://github.com/nicoespeon/gitgraph.js/blob/master/packages/gitgraph-node/CHANGELOG.md)
+[![Changelog](https://img.shields.io/badge/%F0%9F%93%94-changelog-CD9523.svg)](https://github.com/levi217/gitgraph.js/blob/master/packages/gitgraph-node/CHANGELOG.md)
 
 Draw pretty git graphs in your terminal.
 
@@ -56,4 +56,4 @@ Running `node index.js` will produce following output:
 
 ![Example usage](./assets/example-usage.png)
 
-[gitgraph-repo]: https://github.com/nicoespeon/gitgraph.js/
+[gitgraph-repo]: https://github.com/levi217/gitgraph.js/
