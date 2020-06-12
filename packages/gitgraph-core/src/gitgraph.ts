@@ -377,7 +377,7 @@ class GitgraphCore<TNode = SVGElement> {
           x: this.initCommitOffsetX + this.template.branch.spacing * order,
           y:
             this.initCommitOffsetY +
-            this.template.commit.spacing * (maxRow - row),
+            commit.style.spacing * (maxRow - row),
         });
 
       case Orientation.VerticalReverse:
