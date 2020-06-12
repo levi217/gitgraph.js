@@ -1,6 +1,6 @@
-# `@gitgraph/core`
+# `@gitgraphlevi217/core`
 
-[![version](https://img.shields.io/npm/v/@gitgraph/core.svg?logo=npm)](https://www.npmjs.com/package/@gitgraph/core)
+[![version](https://img.shields.io/npm/v/@gitgraphlevi217/core.svg?logo=npm)](https://www.npmjs.com/package/@gitgraphlevi217/core)
 [![Changelog](https://img.shields.io/badge/%F0%9F%93%94-changelog-CD9523.svg)](https://github.com/levi217/gitgraph.js/blob/master/packages/gitgraph-core/CHANGELOG.md)
 
 This is the core package of [GitGraph.js][gitgraph-repo]. It contains the main logic for manipulating git-like API and compute the graph that should be rendered.
@@ -19,7 +19,7 @@ All the GitGraph.js API is defined there: commit, branch, merge, etc. It embrace
 
 ## Developing a rendering library
 
-A rendering library is a wrapper around `@gitgraph/core`.
+A rendering library is a wrapper around `@gitgraphlevi217/core`.
 
 It should:
 
@@ -33,7 +33,7 @@ How it renders the graph is up to you (e.g. canvas, svg, HTML elements…).
 A vanilla JS implementation:
 
 ```js
-import { GitgraphCore } from "@gitgraph/core";
+import { GitgraphCore } from "@gitgraphlevi217/core";
 
 export function createGitgraph(options) {
   const $target = options.$target || document.getElementId("#gitgraph");
@@ -64,7 +64,7 @@ A React implementation:
 
 ```jsx
 import React from "react";
-import { GitgraphCore } from "@gitgraph/core";
+import { GitgraphCore } from "@gitgraphlevi217/core";
 
 export class Gitgraph extends React.Component {
   constructor(props) {

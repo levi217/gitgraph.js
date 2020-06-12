@@ -16,7 +16,7 @@ import {
   Orientation,
   TemplateName,
   templateExtend,
-} from "@gitgraph/core";
+} from "@gitgraphlevi217/core";
 
 import {
   createSvg,
@@ -227,7 +227,7 @@ function createGitgraph(
     function adaptGraphDimensions(): void {
       const { height, width } = svg.getBBox();
 
-      // FIXME: In horizontal mode, we mimic @gitgraph/react behavior
+      // FIXME: In horizontal mode, we mimic @gitgraphlevi217/react behavior
       // => it gets re-rendered after offsets are computed
       // => it applies paddings twice!
       //
@@ -419,7 +419,7 @@ function createGitgraph(
   }
 
   function renderBranchLabels(commit: Commit): Array<SVGElement | null> {
-    // @gitgraph/core could compute branch labels into commits directly.
+    // @gitgraphlevi217/core could compute branch labels into commits directly.
     // That will make it easier to retrieve them, just like tags.
     const branches = Array.from(gitgraph.branches.values());
     return branches.map((branch) => {

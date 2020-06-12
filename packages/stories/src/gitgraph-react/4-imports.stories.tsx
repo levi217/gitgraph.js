@@ -1,6 +1,6 @@
 import * as React from "react";
 import { storiesOf } from "@storybook/react";
-import { Gitgraph, Mode } from "@gitgraph/react";
+import { Gitgraph, Mode } from "@gitgraphlevi217/react";
 
 import simpleGraph from "../import-fixtures/simple-graph";
 import deletedBranch from "../import-fixtures/deleted-branch";

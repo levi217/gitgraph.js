@@ -13,7 +13,7 @@ A JavaScript library to draw pretty git graphs.
 
 ## Getting started
 
-GitGraph.js codebase is a monorepo. Packages are released under `@gitgraph/*` scope.
+GitGraph.js codebase is a monorepo. Packages are released under `@gitgraphlevi217/*` scope.
 
 As a user, you're probably interested in one of the rendering libraries:
 

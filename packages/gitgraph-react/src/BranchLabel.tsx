@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Branch, Commit } from "@gitgraph/core";
+import { Branch, Commit } from "@gitgraphlevi217/core";
 
 interface Props {
   branch: Branch<React.ReactElement<SVGElement>>;

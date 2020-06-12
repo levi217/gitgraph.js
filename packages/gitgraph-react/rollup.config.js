@@ -1,5 +1,5 @@
 const globals = {
-  "@gitgraph/core": "gitgraph.core",
+  "@gitgraphlevi217/core": "gitgraph.core",
 };
 
 export default {

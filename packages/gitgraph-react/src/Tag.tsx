@@ -1,6 +1,6 @@
 import * as React from "react";
 import { useState, useEffect, useRef } from "react";
-import { Tag as CoreTag } from "@gitgraph/core";
+import { Tag as CoreTag } from "@gitgraphlevi217/core";
 
 interface Props {
   tag: CoreTag<React.ReactElement<SVGElement>>;

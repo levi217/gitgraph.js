@@ -1,6 +1,6 @@
-# `@gitgraph/js`
+# `@gitgraphlevi217/js`
 
-[![version](https://img.shields.io/npm/v/@gitgraph/js.svg?logo=npm)](https://www.npmjs.com/package/@gitgraph/js)
+[![version](https://img.shields.io/npm/v/@gitgraphlevi217/js.svg?logo=npm)](https://www.npmjs.com/package/@gitgraphlevi217/js)
 [![Changelog](https://img.shields.io/badge/%F0%9F%93%94-changelog-CD9523.svg)](https://github.com/levi217/gitgraph.js/blob/master/packages/gitgraph-js/CHANGELOG.md)
 
 Draw pretty git graphs with vanilla JS.
@@ -22,8 +22,8 @@ You have 2 options:
 
 Get the bundle from one of the following sources:
 
-- jsDelivr CDN: <https://cdn.jsdelivr.net/npm/@gitgraph/js>
-- unpkg CDN: <https://unpkg.com/@gitgraph/js>
+- jsDelivr CDN: <https://cdn.jsdelivr.net/npm/@gitgraphlevi217/js>
+- unpkg CDN: <https://unpkg.com/@gitgraphlevi217/js>
 
 Create an `index.html` file and start coding:
 
@@ -32,7 +32,7 @@ Create an `index.html` file and start coding:
 <html>
 <head>
   <!-- Load the JS file -->
-  <script src="https://cdn.jsdelivr.net/npm/@gitgraph/js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@gitgraphlevi217/js"></script>
 </head>
 <body>
   <!-- DOM element in which we'll mount our graph -->
@@ -84,7 +84,7 @@ Create a new folder for your project and go there: `mkdir your-project && cd you
 
 Initialize your npm project: `npm init -y`
 
-Install the package with npm: `npm i --save @gitgraph/js`
+Install the package with npm: `npm i --save @gitgraphlevi217/js`
 
 Install Parcel bundler: `npm i --save-dev parcel-bundler`
 
@@ -111,7 +111,7 @@ Create an `index.html` file:
 Create an `index.js` file:
 
 ```js
-import { createGitgraph } from "@gitgraph/js";
+import { createGitgraph } from "@gitgraphlevi217/js";
 
 // Get the graph container HTML element.
 const graphContainer = document.getElementById("graph-container");
@@ -159,7 +159,7 @@ Run `npm start`. You should see the following graph:
 
 ## If you're coming from `gitgraph.js` package
 
-[Here's a guide to help you migrate][migration-guide] to `@gitgraph/js`.
+[Here's a guide to help you migrate][migration-guide] to `@gitgraphlevi217/js`.
 
 [playground]: https://codepen.io/nicoespeon/pen/arqPWb?editors=1010
 [get-npm]: https://www.npmjs.com/get-npm

@@ -1,6 +1,6 @@
 import * as React from "react";
 import { storiesOf } from "@storybook/react";
-import { Gitgraph, Branch } from "@gitgraph/react";
+import { Gitgraph, Branch } from "@gitgraphlevi217/react";
 
 class GitgraphPlayground extends React.Component<any, any> {
   constructor(props: any) {

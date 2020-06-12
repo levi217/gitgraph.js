@@ -1,4 +1,4 @@
-import { Commit } from "@gitgraph/core";
+import { Commit } from "@gitgraphlevi217/core";
 
 import { createG, createPath, createText } from "./svg-elements";
 

@@ -38,8 +38,8 @@ export { default as theme } from "./theme";
 
 ## 📦 Install GitGraph.js
 
-- For JS (<small>[README][js-readme]</small>): `npm i @gitgraph/js`
-- For React (<small>[README][react-readme]</small>): `npm i @gitgraph/react`
+- For JS (<small>[README][js-readme]</small>): `npm i @gitgraphlevi217/js`
+- For React (<small>[README][react-readme]</small>): `npm i @gitgraphlevi217/react`
 
 [js-readme]: https://github.com/levi217/gitgraph.js/tree/master/packages/gitgraph-js#gitgraphjs
 [react-readme]: https://github.com/levi217/gitgraph.js/tree/master/packages/gitgraph-react#gitgraphreact
@@ -54,7 +54,7 @@ export { default as theme } from "./theme";
 ```
 
 ```js
-import { createGitgraph } from "@gitgraph/js";
+import { createGitgraph } from "@gitgraphlevi217/js";
 
 const graphContainer = document.getElementById("gitgraph");
 const gitgraph = createGitgraph(graphContainer);
@@ -65,7 +65,7 @@ const gitgraph = createGitgraph(graphContainer);
 ### Importing the React library
 
 ```jsx
-import { Gitgraph } from "@gitgraph/react";
+import { Gitgraph } from "@gitgraphlevi217/react";
 
 // Now you can use the component =>
 <Gitgraph>{(gitgraph) => {}}</Gitgraph>;
@@ -98,12 +98,12 @@ export default Invert;
 You can customize the graph with `options`
 
 ```jsx
-// @gitgraph/js − Pass `options` as second param
+// @gitgraphlevi217/js − Pass `options` as second param
 const gitgraph = createGitgraph(graphContainer, options);
 ```
 
 ```jsx
-// @gitgraph/react − Provide `options` as props
+// @gitgraphlevi217/react − Provide `options` as props
 <Gitgraph options={options}>{(gitgraph) => {}}</Gitgraph>
 ```
 
@@ -246,8 +246,8 @@ But also: `onMouseOver`, `onMouseOut`, etc.
 
 ## Check detailed use-cases 🧐
 
-- [JS stories][js-stories] of `@gitgraph/js`
-- [React stories][react-stories] of `@gitgraph/react`
+- [JS stories][js-stories] of `@gitgraphlevi217/js`
+- [React stories][react-stories] of `@gitgraphlevi217/react`
 
 [js-stories]: ./stories?path=/story/gitgraph-js-1-basic-usage--default
 [react-stories]: ./stories?path=/story/gitgraph-react-1-basic-usage--default

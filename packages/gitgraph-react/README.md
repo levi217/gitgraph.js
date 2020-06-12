@@ -1,6 +1,6 @@
-# `@gitgraph/react`
+# `@gitgraphlevi217/react`
 
-[![version](https://img.shields.io/npm/v/@gitgraph/react.svg?logo=npm)](https://www.npmjs.com/package/@gitgraph/react)
+[![version](https://img.shields.io/npm/v/@gitgraphlevi217/react.svg?logo=npm)](https://www.npmjs.com/package/@gitgraphlevi217/react)
 [![Changelog](https://img.shields.io/badge/%F0%9F%93%94-changelog-CD9523.svg)](https://github.com/levi217/gitgraph.js/blob/master/packages/gitgraph-react/CHANGELOG.md)
 
 Draw pretty git graphs with React.
@@ -11,12 +11,12 @@ Draw pretty git graphs with React.
 
 > You need to have [npm][get-npm] installed.
 
-Install the package with npm: `npm i --save @gitgraph/react`
+Install the package with npm: `npm i --save @gitgraphlevi217/react`
 
 Now you can use the `<GitGraph>` component:
 
 ```jsx
-const { Gitgraph } = require("@gitgraph/react");
+const { Gitgraph } = require("@gitgraphlevi217/react");
 
 function MyComponent() {
   return (

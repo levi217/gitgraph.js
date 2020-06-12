@@ -1,8 +1,8 @@
 {
-  "name": "@gitgraph/stories",
+  "name": "@gitgraphlevi217/stories",
   "version": "0.0.13",
   "private": true,
-  "description": "Stories of @gitgraph rendering libraries for E2E tests",
+  "description": "Stories of @gitgraphlevi217 rendering libraries for E2E tests",
   "author": "Nicolas Carlo <nicolascarlo.espeon@gmail.com>",
   "contributors": [
     {
@@ -17,8 +17,8 @@
     "build": "build-storybook"
   },
   "dependencies": {
-    "@gitgraph/js": "1.3.5",
-    "@gitgraph/react": "1.5.4"
+    "@gitgraphlevi217/js": "1.3.5",
+    "@gitgraphlevi217/react": "1.5.4"
   },
   "devDependencies": {
     "@babel/core": "7.4.3",

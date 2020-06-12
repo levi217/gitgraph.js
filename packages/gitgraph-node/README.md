@@ -1,8 +1,8 @@
 **❗ This rendering library is still under development and is not stable.**
 
-# `@gitgraph/node`
+# `@gitgraphlevi217/node`
 
-[![version](https://img.shields.io/npm/v/@gitgraph/node.svg?logo=npm)](https://www.npmjs.com/package/@gitgraph/node)
+[![version](https://img.shields.io/npm/v/@gitgraphlevi217/node.svg?logo=npm)](https://www.npmjs.com/package/@gitgraphlevi217/node)
 [![Changelog](https://img.shields.io/badge/%F0%9F%93%94-changelog-CD9523.svg)](https://github.com/levi217/gitgraph.js/blob/master/packages/gitgraph-node/CHANGELOG.md)
 
 Draw pretty git graphs in your terminal.
@@ -15,7 +15,7 @@ Draw pretty git graphs in your terminal.
 
 > You need to have [npm][get-npm] installed.
 
-Install the package with npm: `npm i --save @gitgraph/node`
+Install the package with npm: `npm i --save @gitgraphlevi217/node`
 
 Then, use it in your node.js scripts.
 
@@ -26,7 +26,7 @@ Then, use it in your node.js scripts.
 Let's pretend this is your `index.js`:
 
 ```js
-const { Gitgraph, render } = require("@gitgraph/node");
+const { Gitgraph, render } = require("@gitgraphlevi217/node");
 
 const gitgraph = new Gitgraph();
 

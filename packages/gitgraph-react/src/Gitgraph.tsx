@@ -18,7 +18,7 @@ import {
   Coordinate,
   toSvgPath,
   arrowSvgPath,
-} from "@gitgraph/core";
+} from "@gitgraphlevi217/core";
 
 import { BranchLabel } from "./BranchLabel";
 import { Tooltip } from "./Tooltip";
@@ -322,7 +322,7 @@ class Gitgraph extends React.Component<GitgraphProps, GitgraphState> {
   }
 
   private renderBranchLabels(commit: Commit<ReactSvgElement>) {
-    // @gitgraph/core could compute branch labels into commits directly.
+    // @gitgraphlevi217/core could compute branch labels into commits directly.
     // That will make it easier to retrieve them, just like tags.
     const branches = Array.from(this.gitgraph.branches.values());
     return branches.map((branch) => {

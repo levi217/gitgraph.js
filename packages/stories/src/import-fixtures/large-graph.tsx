@@ -4,11 +4,11 @@ export default [
     refs: [
       "HEAD",
       "master",
-      "tag: @gitgraph/stories@0.0.3",
-      "tag: @gitgraph/react@1.1.0-8",
-      "tag: @gitgraph/node@0.1.8",
-      "tag: @gitgraph/js@1.0.0-4",
-      "tag: @gitgraph/core@1.1.0-6",
+      "tag: @gitgraphlevi217/stories@0.0.3",
+      "tag: @gitgraphlevi217/react@1.1.0-8",
+      "tag: @gitgraphlevi217/node@0.1.8",
+      "tag: @gitgraphlevi217/js@1.0.0-4",
+      "tag: @gitgraphlevi217/core@1.1.0-6",
       "origin/master",
     ],
     hash: "b9ea800f158b69d401b8dd758157b835c857b6b5",
@@ -29,7 +29,7 @@ export default [
     },
     subject: "Publish",
     body:
-      "- @gitgraph/core@1.1.0-6\n - @gitgraph/js@1.0.0-4\n - @gitgraph/node@0.1.8\n - @gitgraph/react@1.1.0-8\n - @gitgraph/stories@0.0.3",
+      "- @gitgraphlevi217/core@1.1.0-6\n - @gitgraphlevi217/js@1.0.0-4\n - @gitgraphlevi217/node@0.1.8\n - @gitgraphlevi217/react@1.1.0-8\n - @gitgraphlevi217/stories@0.0.3",
     notes: "",
     stats: [
       {
@@ -758,11 +758,11 @@ export default [
   },
   {
     refs: [
-      "tag: @gitgraph/stories@0.0.2",
-      "tag: @gitgraph/react@1.1.0-7",
-      "tag: @gitgraph/node@0.1.7",
-      "tag: @gitgraph/js@1.0.0-3",
-      "tag: @gitgraph/core@1.1.0-5",
+      "tag: @gitgraphlevi217/stories@0.0.2",
+      "tag: @gitgraphlevi217/react@1.1.0-7",
+      "tag: @gitgraphlevi217/node@0.1.7",
+      "tag: @gitgraphlevi217/js@1.0.0-3",
+      "tag: @gitgraphlevi217/core@1.1.0-5",
     ],
     hash: "286138e6c83a19e40b8b5eac4b6859bbc20c5c06",
     hashAbbrev: "286138e",
@@ -782,7 +782,7 @@ export default [
     },
     subject: "Publish",
     body:
-      "- @gitgraph/core@1.1.0-5\n - @gitgraph/js@1.0.0-3\n - @gitgraph/node@0.1.7\n - @gitgraph/react@1.1.0-7\n - @gitgraph/stories@0.0.2",
+      "- @gitgraphlevi217/core@1.1.0-5\n - @gitgraphlevi217/js@1.0.0-3\n - @gitgraphlevi217/node@0.1.7\n - @gitgraphlevi217/react@1.1.0-7\n - @gitgraphlevi217/stories@0.0.2",
     notes: "",
     stats: [
       {
@@ -834,7 +834,7 @@ export default [
       timestamp: 1554606147000,
     },
     subject: "Merge pull request #257 from nicoespeon/drop-yup-from-core",
-    body: "Drop yup from @gitgraph/core",
+    body: "Drop yup from @gitgraphlevi217/core",
     notes: "",
     stats: [],
   },
@@ -937,11 +937,11 @@ export default [
   },
   {
     refs: [
-      "tag: @gitgraph/stories@0.0.1",
-      "tag: @gitgraph/react@1.1.0-6",
-      "tag: @gitgraph/node@0.1.6",
-      "tag: @gitgraph/js@1.0.0-2",
-      "tag: @gitgraph/core@1.1.0-4",
+      "tag: @gitgraphlevi217/stories@0.0.1",
+      "tag: @gitgraphlevi217/react@1.1.0-6",
+      "tag: @gitgraphlevi217/node@0.1.6",
+      "tag: @gitgraphlevi217/js@1.0.0-2",
+      "tag: @gitgraphlevi217/core@1.1.0-4",
     ],
     hash: "8d6384d1ff0bedec4ca3c98543ce873780049069",
     hashAbbrev: "8d6384d",
@@ -961,7 +961,7 @@ export default [
     },
     subject: "Publish",
     body:
-      "- @gitgraph/core@1.1.0-4\n - @gitgraph/js@1.0.0-2\n - @gitgraph/node@0.1.6\n - @gitgraph/react@1.1.0-6\n - @gitgraph/stories@0.0.1",
+      "- @gitgraphlevi217/core@1.1.0-4\n - @gitgraphlevi217/js@1.0.0-2\n - @gitgraphlevi217/node@0.1.6\n - @gitgraphlevi217/react@1.1.0-6\n - @gitgraphlevi217/stories@0.0.1",
     notes: "",
     stats: [
       {
@@ -1013,7 +1013,7 @@ export default [
       timestamp: 1554604297000,
     },
     subject: "Merge pull request #256 from nicoespeon/drop-lodash-from-core",
-    body: "Drop lodash from @gitgraph/core",
+    body: "Drop lodash from @gitgraphlevi217/core",
     notes: "",
     stats: [],
   },
@@ -1098,7 +1098,7 @@ export default [
       email: "nicolascarlo.espeon@gmail.com",
       timestamp: 1554602639000,
     },
-    subject: "Drop the need of lodash in @gitgraph/core",
+    subject: "Drop the need of lodash in @gitgraphlevi217/core",
     body: "",
     notes: "",
     stats: [
@@ -1255,7 +1255,7 @@ export default [
       email: "nicolascarlo.espeon@gmail.com",
       timestamp: 1554558065000,
     },
-    subject: "Add mention to @gitgraph/js package as replacement",
+    subject: "Add mention to @gitgraphlevi217/js package as replacement",
     body: "",
     notes: "",
     stats: [
@@ -1318,7 +1318,7 @@ export default [
       email: "nicolascarlo.espeon@gmail.com",
       timestamp: 1554467070000,
     },
-    subject: "Update @gitgraph/js README",
+    subject: "Update @gitgraphlevi217/js README",
     body: "",
     notes: "",
     stats: [
@@ -1330,7 +1330,7 @@ export default [
     ],
   },
   {
-    refs: ["tag: @gitgraph/react@1.1.0-5", "tag: @gitgraph/js@1.0.0-1"],
+    refs: ["tag: @gitgraphlevi217/react@1.1.0-5", "tag: @gitgraphlevi217/js@1.0.0-1"],
     hash: "41c01abc3671c2fc2c51c3222bb600207660c7fe",
     hashAbbrev: "41c01ab",
     tree: "18b0c50cfca8e76622ac2c37fc7583ffb998ca47",
@@ -1348,7 +1348,7 @@ export default [
       timestamp: 1554466896000,
     },
     subject: "Publish",
-    body: "- @gitgraph/js@1.0.0-1\n - @gitgraph/react@1.1.0-5",
+    body: "- @gitgraphlevi217/js@1.0.0-1\n - @gitgraphlevi217/react@1.1.0-5",
     notes: "",
     stats: [
       {
@@ -1439,7 +1439,7 @@ export default [
       email: "nicolascarlo.espeon@gmail.com",
       timestamp: 1554466654000,
     },
-    subject: "Reference @gitgraph/js package in main README",
+    subject: "Reference @gitgraphlevi217/js package in main README",
     body: "",
     notes: "",
     stats: [
@@ -1468,7 +1468,7 @@ export default [
       email: "nicolascarlo.espeon@gmail.com",
       timestamp: 1554466580000,
     },
-    subject: "Remove warning from @gitgraph/js README",
+    subject: "Remove warning from @gitgraphlevi217/js README",
     body: "",
     notes: "",
     stats: [
@@ -1523,7 +1523,7 @@ export default [
       email: "nicolascarlo.espeon@gmail.com",
       timestamp: 1554466193000,
     },
-    subject: "Use publish @gitgraph/js",
+    subject: "Use publish @gitgraphlevi217/js",
     body: "",
     notes: "",
     stats: [
@@ -1535,7 +1535,7 @@ export default [
     ],
   },
   {
-    refs: ["tag: @gitgraph/js@1.0.0-0"],
+    refs: ["tag: @gitgraphlevi217/js@1.0.0-0"],
     hash: "cb6be3b53d16af654202226cc87e9253b6d412d4",
     hashAbbrev: "cb6be3b",
     tree: "fe6d2d4c07282a284e071fca0d33c3d011b9603f",
@@ -1553,7 +1553,7 @@ export default [
       timestamp: 1554466128000,
     },
     subject: "chore(release): %s",
-    body: "- @gitgraph/js@1.0.0-0",
+    body: "- @gitgraphlevi217/js@1.0.0-0",
     notes: "",
     stats: [
       {
@@ -1581,7 +1581,7 @@ export default [
       email: "nicolascarlo.espeon@gmail.com",
       timestamp: 1554466061000,
     },
-    subject: "Make @gitgraph/js public",
+    subject: "Make @gitgraphlevi217/js public",
     body: "",
     notes: "",
     stats: [
@@ -2056,10 +2056,10 @@ export default [
   },
   {
     refs: [
-      "tag: @gitgraph/react@1.1.0-4",
-      "tag: @gitgraph/node@0.1.5",
-      "tag: @gitgraph/js@0.1.1",
-      "tag: @gitgraph/core@1.1.0-3",
+      "tag: @gitgraphlevi217/react@1.1.0-4",
+      "tag: @gitgraphlevi217/node@0.1.5",
+      "tag: @gitgraphlevi217/js@0.1.1",
+      "tag: @gitgraphlevi217/core@1.1.0-3",
     ],
     hash: "eb9aee5f4170b4758318437a23b082b27c7b47c2",
     hashAbbrev: "eb9aee5",
@@ -2079,7 +2079,7 @@ export default [
     },
     subject: "chore(release): %s",
     body:
-      "- @gitgraph/core@1.1.0-3\n - @gitgraph/js@0.1.1\n - @gitgraph/node@0.1.5\n - @gitgraph/react@1.1.0-4",
+      "- @gitgraphlevi217/core@1.1.0-3\n - @gitgraphlevi217/js@0.1.1\n - @gitgraphlevi217/node@0.1.5\n - @gitgraphlevi217/react@1.1.0-4",
     notes: "",
     stats: [
       {
@@ -3451,7 +3451,7 @@ export default [
     ],
   },
   {
-    refs: ["tag: @gitgraph/react@1.1.0-3", "tag: @gitgraph/js@0.1.0"],
+    refs: ["tag: @gitgraphlevi217/react@1.1.0-3", "tag: @gitgraphlevi217/js@0.1.0"],
     hash: "753f5034f7ff2c5fa384238780671f6e8688ec42",
     hashAbbrev: "753f503",
     tree: "d785d31ec37d7c8ad9b46f851d3cd9b86e737d00",
@@ -3469,7 +3469,7 @@ export default [
       timestamp: 1554046267000,
     },
     subject: "chore(release): %s",
-    body: "- @gitgraph/js@0.1.0\n - @gitgraph/react@1.1.0-3",
+    body: "- @gitgraphlevi217/js@0.1.0\n - @gitgraphlevi217/react@1.1.0-3",
     notes: "",
     stats: [
       {
@@ -3502,7 +3502,7 @@ export default [
       email: "nicolascarlo.espeon@gmail.com",
       timestamp: 1554045713000,
     },
-    subject: "Set @gitgraph/js private while in development",
+    subject: "Set @gitgraphlevi217/js private while in development",
     body: "Avoid publishing until it's ready enough",
     notes: "",
     stats: [
@@ -4084,7 +4084,7 @@ export default [
       email: "nicolascarlo.espeon@gmail.com",
       timestamp: 1553823788000,
     },
-    subject: "Add mention @gitgraph/js is still under development",
+    subject: "Add mention @gitgraphlevi217/js is still under development",
     body: "",
     notes: "",
     stats: [
@@ -4116,8 +4116,8 @@ export default [
       email: "noreply@github.com",
       timestamp: 1553823711000,
     },
-    subject: "Merge pull request #242 from nicoespeon/@gitgraph/js",
-    body: "Create @gitgraph/js",
+    subject: "Merge pull request #242 from nicoespeon/@gitgraphlevi217/js",
+    body: "Create @gitgraphlevi217/js",
     notes: "",
     stats: [],
   },
@@ -4152,9 +4152,9 @@ export default [
   },
   {
     refs: [
-      "tag: @gitgraph/react@1.1.0-2",
-      "tag: @gitgraph/node@0.1.4",
-      "tag: @gitgraph/core@1.1.0-2",
+      "tag: @gitgraphlevi217/react@1.1.0-2",
+      "tag: @gitgraphlevi217/node@0.1.4",
+      "tag: @gitgraphlevi217/core@1.1.0-2",
     ],
     hash: "2a8f3b0d869df2904715365c386e6206a579bad8",
     hashAbbrev: "2a8f3b0",
@@ -4174,7 +4174,7 @@ export default [
     },
     subject: "Publish",
     body:
-      "- @gitgraph/core@1.1.0-2\n - @gitgraph/node@0.1.4\n - @gitgraph/react@1.1.0-2",
+      "- @gitgraphlevi217/core@1.1.0-2\n - @gitgraphlevi217/node@0.1.4\n - @gitgraphlevi217/react@1.1.0-2",
     notes: "",
     stats: [
       {
@@ -4475,7 +4475,7 @@ export default [
     },
     subject: "Merge pull request #246 from nicoespeon/refactor-branch-orders",
     body:
-      'Extract the concept of "BranchesOrder" (formerly "GraphColumns").\r\nAlso refactor the logic of commit message into @gitgraph/core.',
+      'Extract the concept of "BranchesOrder" (formerly "GraphColumns").\r\nAlso refactor the logic of commit message into @gitgraphlevi217/core.',
     notes: "",
     stats: [],
   },
@@ -4969,7 +4969,7 @@ export default [
       email: "nicolascarlo.espeon@gmail.com",
       timestamp: 1553561698000,
     },
-    subject: "Set up @gitgraph/js package",
+    subject: "Set up @gitgraphlevi217/js package",
     body: "",
     notes: "",
     stats: [
@@ -5046,9 +5046,9 @@ export default [
   },
   {
     refs: [
-      "tag: @gitgraph/react@1.1.0-1",
-      "tag: @gitgraph/node@0.1.3",
-      "tag: @gitgraph/core@1.1.0-1",
+      "tag: @gitgraphlevi217/react@1.1.0-1",
+      "tag: @gitgraphlevi217/node@0.1.3",
+      "tag: @gitgraphlevi217/core@1.1.0-1",
     ],
     hash: "aa07aa76fce60214aa4ecdfd3468950d470ca058",
     hashAbbrev: "aa07aa7",
@@ -5068,7 +5068,7 @@ export default [
     },
     subject: "Publish",
     body:
-      "- @gitgraph/core@1.1.0-1\n - @gitgraph/node@0.1.3\n - @gitgraph/react@1.1.0-1",
+      "- @gitgraphlevi217/core@1.1.0-1\n - @gitgraphlevi217/node@0.1.3\n - @gitgraphlevi217/react@1.1.0-1",
     notes: "",
     stats: [
       {
@@ -6047,7 +6047,7 @@ export default [
       email: "nicolascarlo.espeon@gmail.com",
       timestamp: 1553137206000,
     },
-    subject: "Use computed Tag style to render it in @gitgraph/react",
+    subject: "Use computed Tag style to render it in @gitgraphlevi217/react",
     body: "",
     notes: "",
     stats: [
@@ -6081,7 +6081,7 @@ export default [
       email: "nicolascarlo.espeon@gmail.com",
       timestamp: 1553137206000,
     },
-    subject: "Expose Tag from @gitgraph/core",
+    subject: "Expose Tag from @gitgraphlevi217/core",
     body: "",
     notes: "",
     stats: [
@@ -6165,7 +6165,7 @@ export default [
       email: "nicolascarlo.espeon@gmail.com",
       timestamp: 1553137206000,
     },
-    subject: "Create Tag concept in @gitgraph/core",
+    subject: "Create Tag concept in @gitgraphlevi217/core",
     body: "",
     notes: "",
     stats: [
@@ -6315,7 +6315,7 @@ export default [
       email: "nicolascarlo.espeon@gmail.com",
       timestamp: 1552109641000,
     },
-    subject: "Update gitgraph-* mentions to @gitgraph/*",
+    subject: "Update gitgraph-* mentions to @gitgraphlevi217/*",
     body: "",
     notes: "",
     stats: [
@@ -6343,9 +6343,9 @@ export default [
   },
   {
     refs: [
-      "tag: @gitgraph/react@1.1.0-0",
-      "tag: @gitgraph/node@0.1.2",
-      "tag: @gitgraph/core@1.1.0-0",
+      "tag: @gitgraphlevi217/react@1.1.0-0",
+      "tag: @gitgraphlevi217/node@0.1.2",
+      "tag: @gitgraphlevi217/core@1.1.0-0",
     ],
     hash: "7de8774d3da727dd0d445b3a36a7d945960ffa0c",
     hashAbbrev: "7de8774",
@@ -6365,7 +6365,7 @@ export default [
     },
     subject: "Publish",
     body:
-      "- @gitgraph/core@1.1.0-0\n - @gitgraph/node@0.1.2\n - @gitgraph/react@1.1.0-0",
+      "- @gitgraphlevi217/core@1.1.0-0\n - @gitgraphlevi217/node@0.1.2\n - @gitgraphlevi217/react@1.1.0-0",
     notes: "",
     stats: [
       {
@@ -8358,9 +8358,9 @@ export default [
   },
   {
     refs: [
-      "tag: @gitgraph/react@1.0.0-1",
-      "tag: @gitgraph/node@0.1.1",
-      "tag: @gitgraph/core@1.0.0-1",
+      "tag: @gitgraphlevi217/react@1.0.0-1",
+      "tag: @gitgraphlevi217/node@0.1.1",
+      "tag: @gitgraphlevi217/core@1.0.0-1",
     ],
     hash: "1e2f2bc9ba5a8d41d5f0572aff5ac9bb860425aa",
     hashAbbrev: "1e2f2bc",
@@ -8380,7 +8380,7 @@ export default [
     },
     subject: "Publish",
     body:
-      "- @gitgraph/core@1.0.0-1\n - @gitgraph/node@0.1.1\n - @gitgraph/react@1.0.0-1",
+      "- @gitgraphlevi217/core@1.0.0-1\n - @gitgraphlevi217/node@0.1.1\n - @gitgraphlevi217/react@1.0.0-1",
     notes: "",
     stats: [
       {
@@ -8505,7 +8505,7 @@ export default [
       email: "nicolascarlo.espeon@gmail.com",
       timestamp: 1549751288000,
     },
-    subject: "Update @gitgraph/core deps version",
+    subject: "Update @gitgraphlevi217/core deps version",
     body: "",
     notes: "",
     stats: [
@@ -8523,9 +8523,9 @@ export default [
   },
   {
     refs: [
-      "tag: @gitgraph/react@1.0.0-0",
-      "tag: @gitgraph/node@0.1.0",
-      "tag: @gitgraph/core@1.0.0-0",
+      "tag: @gitgraphlevi217/react@1.0.0-0",
+      "tag: @gitgraphlevi217/node@0.1.0",
+      "tag: @gitgraphlevi217/core@1.0.0-0",
     ],
     hash: "ce57e3f8f6381b08a0634c85a19d65dbcf6c0260",
     hashAbbrev: "ce57e3f",
@@ -8545,7 +8545,7 @@ export default [
     },
     subject: "Publish",
     body:
-      "- @gitgraph/core@1.0.0-0\n - @gitgraph/node@0.1.0\n - @gitgraph/react@1.0.0-0",
+      "- @gitgraphlevi217/core@1.0.0-0\n - @gitgraphlevi217/node@0.1.0\n - @gitgraphlevi217/react@1.0.0-0",
     notes: "",
     stats: [
       {
@@ -9223,7 +9223,7 @@ export default [
       email: "nicolascarlo.espeon@gmail.com",
       timestamp: 1549128652000,
     },
-    subject: "Declare package as part of the same @gitgraph scope",
+    subject: "Declare package as part of the same @gitgraphlevi217 scope",
     body: "",
     notes: "",
     stats: [
