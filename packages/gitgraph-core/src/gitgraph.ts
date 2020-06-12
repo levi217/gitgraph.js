@@ -375,15 +375,13 @@ class GitgraphCore<TNode = SVGElement> {
       default:
         return commit.setPosition({
           x: this.initCommitOffsetX + this.template.branch.spacing * order,
-          y:
-            this.initCommitOffsetY +
-            commit.style.spacing * (maxRow - row),
+          y: this.commits.slice(row, maxRow).reduce((runningY, commit) => runningY + commit.style.spacing, 0)
         });
 
       case Orientation.VerticalReverse:
         return commit.setPosition({
           x: this.initCommitOffsetX + this.template.branch.spacing * order,
-          y: this.initCommitOffsetY + this.template.commit.spacing * row,
+          y: this.commits.slice(0, row).reduce((runningY, commit) => runningY + commit.style.spacing, 0)
         });
 
       case Orientation.Horizontal:
